@@ -1,0 +1,21 @@
+Datos:	 N# - 8761		22/7/2024 - 11:21:28
+************************************************************
+Item		Cant.		 Precio Items
+------------------------------------------------------------
+Pollo		2		2.64 Eur
+Salmón		4		9.24 Eur
+Kebab mixto		3		5.97 Eur
+Entrecot		2		5.3 Eur
+Coca-cola		2		2.5 Eur
+Fanta Limón		4		4.84 Eur
+Vino tinto		3		3.3000000000000003 Eur
+Vermut		2		3.16 Eur
+Helados		2		3.08 Eur
+Torrija		4		5.28 Eur
+Puding de castañas		3		6.42 Eur
+Coulant de choclate		2		3.48 Eur
+------------------------------------------------------------
+Subtotal - 57.09 Eur			 Impuestos - 11.99 Eur
+TOTAL - 69.08 Eur
+************************************************************
+		 ¡Hasta pronto!

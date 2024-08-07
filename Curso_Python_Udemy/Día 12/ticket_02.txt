@@ -1,0 +1,18 @@
+Datos:	 N# - 6938		19/7/2024 - 19:42:46
+************************************************************
+Item		Cant.		 Precio Items
+------------------------------------------------------------
+Pollo		6		7.92 Eur
+Merluza		6		19.32 Eur
+Pizza 4 quesos		5		6.1 Eur
+Coca-cola		6		7.5 Eur
+Tinto de verano		6		9.24 Eur
+Cerveza		5		5.4 Eur
+Helados		6		9.24 Eur
+Creepes		6		11.82 Eur
+Mousse de chocolate		5		12.75 Eur
+------------------------------------------------------------
+Subtotal - 116.83 Eur			 Impuestos - 24.53 Eur
+TOTAL - 141.36 Eur
+************************************************************
+		 ¡Hasta pronto!
